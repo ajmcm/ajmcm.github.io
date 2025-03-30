@@ -10,9 +10,4 @@ My name is Adam, and I’m currently pursuing a **Master of Information Technolo
 
 Thanks for joining me, and I hope you enjoy reading my posts!
 
-Stay curious,  
-Adam
-
-M. IT (AI),
-B. Psych (Hons),
-B. Mus (Hons).
+-- Adam
