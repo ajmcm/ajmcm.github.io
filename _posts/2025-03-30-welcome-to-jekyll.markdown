@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Hello :)"
+title:  "A self introduction"
 date:   2025-03-30 17:37:57 +1100
 categories: update personal
 ---
