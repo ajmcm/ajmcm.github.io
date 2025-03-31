@@ -2,8 +2,8 @@
 layout: post
 title: "Batch completing all reminders on OSX"
 date: 2025-03-30 18:43:00 +1100
-categories: apple, osx
-tags: reminders, osx, apple script, batch delete, automation
+categories: [apple, osx]
+tags: [reminders, osx, apple script, batch delete, automation]
 description: "How to mark all reminders as complete on OSX using an AppleScript."
 
 ---
