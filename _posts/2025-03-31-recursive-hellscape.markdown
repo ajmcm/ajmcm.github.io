@@ -4,6 +4,7 @@ title: "Recursive Hellscape"
 date: 2025-03-31 17:56:00 +1100
 categories: [prolog, tail-recursion]
 tags: [recursion, algorithms, programming, prolog]
+published: false
 ---
 I am currently being tormented by a tail-recursive tree flattening Prolog program. Just going to leave this commented trace here in case it helps anyone else who is trying to understand how this method works.
 
