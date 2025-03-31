@@ -17,7 +17,7 @@ tree_list(node(L, N, R), List, List0) :-
    tree_list(R, List2, List0).
 ```
 
-And now the trace (with helpful comments added courtesy of ChatGPT...):
+And now the trace (with extremely helpful comments added courtesy of ChatGPT...):
 ```
 % Define a binary tree structure:
 %         2
