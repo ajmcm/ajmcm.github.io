@@ -1,1 +1,0 @@
-# ajmcm.github.io

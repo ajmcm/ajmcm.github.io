@@ -1,53 +1,83 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-#
-# If you need help with YAML syntax, here are some quick references for you:
-# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
-# https://learnxinyminutes.com/docs/yaml/
-#
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
+locale: "en-US"
+site_theme: "default"
 
-title: Adam McMillan
-email: adam.j.mcmillan@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Where I come to write about tech, AI/ML, psychology, music, and life.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://ajmcm.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: #jekyllrb
-github_username:  ajmcm
+title: "Adam McMillan"
+title_separator: "-"
+name: &name "Adam McMillan"
+description: &description "AI, machine learning, psychology, software engineering, and music."
+url: "https://ajmcm.github.io"
+baseurl: ""
+repository: "ajmcm/ajmcm.github.io"
 
-# Build settings
-theme: minima
+remote_theme: academicpages/academicpages.github.io
+
+author:
+  avatar: "adam2025.png"
+  name: "Adam McMillan"
+  bio: "Master of Information Technology student specialising in Artificial Intelligence."
+  location: "Melbourne, Australia"
+  email: "adam.j.mcmillan@gmail.com"
+  github: "ajmcm"
+  linkedin: "ajmcm"
+
+breadcrumbs: false
+words_per_minute: 160
+future: true
+read_more: "disabled"
+talkmap_link: false
+
+comments:
+  provider: false
+
+analytics:
+  provider: false
+
+include:
+  - _pages
+  - docs
+
+exclude:
+  - .bundle
+  - .jekyll-cache
+  - .sass-cache
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - node_modules
+  - vendor
+
+markdown: kramdown
+highlighter: rouge
+permalink: /:categories/:title/
+timezone: Australia/Melbourne
+
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+
+defaults:
+  - scope:
+      path: "docs"
+    values:
+      sitemap: false
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
 plugins:
+  - jekyll-remote-theme
   - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-redirect-from
+  - jemoji
 
-# Exclude from processing.
-# The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
-#
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list.
-#
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+whitelist:
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-redirect-from
+  - jemoji
