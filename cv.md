@@ -1,74 +1,58 @@
 ---
+layout: single
 permalink: /cv/
-title: "CV"
-author_profile: true
+title: CV
 ---
 
-[Download PDF](/docs/cv.pdf){: .btn .btn--primary}
-
-## Technical Skills
-
-**Machine Learning:** supervised learning, classification, regression, linear and non-linear models, clustering, fairness learning, active learning, model evaluation, feature selection, ensemble learning, neural networks, generative models, and anomaly detection.
-
-**Statistical Analysis:** SPSS, Jamovi, R.
-
-**Programming Languages:** Python, Django, JavaScript, React, C++, Java, Prolog, Haskell, GLSL.
-
-**Libraries and Frameworks:** Scikit-learn, Pandas, Numpy, TensorFlow, Keras, PyTorch.
-
-**AI Planning:** search algorithms, heuristics, classical planning, reinforcement learning, and game theory.
-
-**Cloud and Infrastructure:** Kubernetes, Docker, Elastic, Fission, MPI, HPC, Google Cloud.
-
-**Database and Collaboration:** SQL, GitHub, GitLab.
+[Download the latest CV (PDF)](/docs/cv_latest.pdf){: .button}
 
 ## Experience
 
-**Software Developer Intern, Exergenics**  
-July 2025 - October 2025
+### Research Assistant · Griffith University
+July 2026 – present<br>
+Modernising a legacy research web application for deployment and ongoing use.
 
-Gained proficiency in data cleaning, modelling, and evaluation in the context of HVAC system optimisation using Exergenics' in-house tools. Contributed substantially to new feature development and software maintenance.
+### Academic Tutor · University of Melbourne
+July 2026 – present<br>
+COMP90051 Statistical Machine Learning. Postgraduate tutorials, Python/PyTorch practical work, assessment and feedback.
 
-**Staff Accompanist, University of Melbourne**  
-2023 - Present
+### Software development · Exergenics
+Internship, July–October 2025; subsequent casual software and ML development.<br>
+React and Django features, production data workflows, and an internal ML classifier from data preparation through deployment.
 
-Provides piano accompaniment for students of the Melbourne Conservatorium of Music for recitals and performance classes.
-
-**Piano Instructor, Self-employed**  
-2011 - Present
-
-Private piano teaching in Adam's own studio and for schools including Melbourne Grammar School, Parkville Music School, and Kensington Primary School. Supported many students in achieving competition and exam success.
-
-## Education
-
-**Master of Information Technology, Artificial Intelligence**  
-University of Melbourne  
-2024 - present, expected completion late 2026
-
-**Bachelor of Psychology (Honours)**  
-Deakin University, Cognitive Neuroscience Unit  
-Class I Honours, 2019 - 2023
-
-**Bachelor of Music (Honours)**  
-Griffith University, Queensland Conservatorium of Music  
-Class I Honours, 2011 - 2014
-
-## Awards
-
-- Dean's Honours List, 2025, University of Melbourne
-- Deakin Scholarship for Excellence, Deakin University
-- Sir Samuel Griffith Scholarship, Griffith University
-- University Medal, Griffith University
-- 1st Prize, Great Romantics Competition, Melbourne Recital Centre
-- 1st Prize, Queensland Piano Competition
+### Freelance Developer
+2020 – present<br>
+Web development for small-business clients, from requirements to deployment and maintenance.
 
 ## Research
 
-**Novel algorithms for exploratory fair classifier learning**  
-Masters research at the University of Melbourne under supervision of Jean Honorio.
+**Latent-Group Methods for Exploratory Fair Classifier Learning**<br>
+University of Melbourne, 2026 · Supervisor: Dr Jean Honorio · 91 (H1).<br>
+Developed and evaluated methods for identifying fairness-relevant latent audit groups in classification.
 
-**Exploring the role of motor imagery in disordered movement in children with ADHD**  
-Honours project at the Cognitive Neuroscience Unit, Deakin University, 2023.
+**Motor imagery and disordered movement in children with ADHD**<br>
+Deakin University, 2023 · Supervisor: Dr Pamela Barhoun.
 
-**Perfectionism in classical pianists: an exploration of how it manifests itself and possible coping strategies**  
-Honours project at Queensland Conservatorium, Griffith University, 2014.
+**Perfectionism in classical pianists**<br>
+Griffith University, 2014.
+
+## Education
+
+**Master of Information Technology · Artificial Intelligence**<br>
+University of Melbourne, 2024–2026 (expected). Current WAM: 87.077, as of August 2026. Dean’s Honours List, 2025.
+
+**Bachelor of Psychology (Honours)**<br>
+Deakin University, 2019–2023. First Class Honours.
+
+**Bachelor of Music (Honours)**<br>
+Griffith University, 2011–2014. First Class Honours; University Medal.
+
+## Tools
+
+Python, JavaScript, SQL, C++, Java, R. React, Django, PyTorch, scikit-learn, TensorFlow, pandas, NumPy. Docker, Kubernetes, Google Cloud, Git. RAG, language-model fine-tuning and LLM evaluation.
+
+## Music
+
+Classical pianist and teacher in Melbourne. First prize, Great Romantics Competition (Melbourne Recital Centre) and Queensland Piano Competition.
+
+[Get in touch](mailto:adam.j.mcmillan@gmail.com) · [LinkedIn](https://www.linkedin.com/in/ajmcm/) · [GitHub](https://github.com/ajmcm)
