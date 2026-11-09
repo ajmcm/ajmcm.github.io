@@ -1,5 +1,5 @@
 locale: "en-US"
-site_theme: "default"
+theme: null
 
 title: "Adam McMillan"
 title_separator: "-"
@@ -9,12 +9,11 @@ url: "https://ajmcm.github.io"
 baseurl: ""
 repository: "ajmcm/ajmcm.github.io"
 
-remote_theme: academicpages/academicpages.github.io
 
 author:
   avatar: "adam2025.png"
   name: "Adam McMillan"
-  bio: "Master of Information Technology student specialising in Artificial Intelligence."
+  bio: "AI/ML, software, psychology and piano."
   location: "Melbourne, Australia"
   email: "adam.j.mcmillan@gmail.com"
   github: "ajmcm"
@@ -69,14 +68,12 @@ defaults:
       author_profile: true
 
 plugins:
-  - jekyll-remote-theme
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-redirect-from
   - jemoji
 
 whitelist:
-  - jekyll-remote-theme
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-redirect-from
