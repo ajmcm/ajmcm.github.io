@@ -19,7 +19,7 @@ redirect_from:
     <span class="field-label label-ai">AI / ML</span><span class="field-label label-software">Software</span><span class="field-label label-psych">Psychology</span><span class="field-label label-music">Music</span>
   </div>
 </section>
-<div class="discipline-strip" aria-label="Areas of work"><span>Research</span><span aria-hidden="true">/</span><span>Build</span><span aria-hidden="true">/</span><span>Teach</span><span aria-hidden="true">/</span><span>Perform</span></div>
+<div class="discipline-strip" aria-label="Areas of work"><span>Research</span><span aria-hidden="true">/</span><span>Build</span><span aria-hidden="true">/</span><span>Teach</span><span aria-hidden="true">/</span><span>Play</span></div>
 <section class="section" id="work" aria-labelledby="work-title">
   <div class="section-heading"><p class="eyebrow">In practice</p><h2 id="work-title">A few things I do.</h2></div>
   <div class="work-list">
