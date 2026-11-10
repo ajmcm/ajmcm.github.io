@@ -19,9 +19,15 @@ redirect_from:
     <span class="field-label label-ai">AI / ML</span><span class="field-label label-software">Software</span><span class="field-label label-psych">Psychology</span><span class="field-label label-music">Music</span>
   </div>
 </section>
-<div class="discipline-strip" aria-label="Areas of work"><span>Research</span><span aria-hidden="true">/</span><span>Build</span><span aria-hidden="true">/</span><span>Teach</span><span aria-hidden="true">/</span><span>Perform</span></div>
+<div class="discipline-strip" aria-label="Areas of work"><span>Research</span><span aria-hidden="true">/</span><span>Build</span><span aria-hidden="true">/</span><span>Teach</span><span aria-hidden="true">/</span><span>Play</span></div>
+<section class="section" id="projects" aria-labelledby="projects-title">
+  <div class="section-heading"><p class="eyebrow">Projects</p><h2 id="projects-title">Things I’m building.</h2></div>
+  <div class="work-list">
+    <article class="work-row"><div><p class="eyebrow">Personal project · Chrome extension · Beta</p><h3><a href="https://github.com/ajmcm/algosteer">AlgoSteer <span aria-hidden="true">↗</span></a></h3><p>A personal preference layer for LinkedIn. Learns from your More/Less feedback to show or hide posts, adapts as your interests change, and leaves room for exploration. Inference and learning run locally on your device.</p><div class="tags"><span>Bayesian learning</span><span>WebGPU</span><span>Local AI</span><span>Human–computer interaction</span></div></div><span class="row-symbol" aria-hidden="true">&lt;/&gt;</span></article>
+  </div>
+</section>
 <section class="section" id="work" aria-labelledby="work-title">
-  <div class="section-heading"><p class="eyebrow">In practice</p><h2 id="work-title">A few things I do.</h2></div>
+  <div class="section-heading"><p class="eyebrow">Work</p><h2 id="work-title">Research, teaching &amp; software.</h2></div>
   <div class="work-list">
     <article class="work-row"><div><p class="eyebrow">Research · University of Melbourne</p><h3>Machine learning fairness</h3><p>Developed and evaluated latent-group methods for fair classifier learning. Master’s research with Dr Jean Honorio.</p><div class="tags"><span>Fairness</span><span>Python</span><span>Research project · 91 H1</span></div></div><span class="row-symbol" aria-hidden="true">↗</span></article>
     <article class="work-row"><div><p class="eyebrow">Teaching · University of Melbourne</p><h3>Statistical machine learning</h3><p>I tutor COMP90051: the maths, the models, and making them work in Python and PyTorch.</p><div class="tags"><span>Bayesian inference</span><span>Learning theory</span><span>Neural networks</span></div></div><span class="row-symbol" aria-hidden="true">∑</span></article>
