@@ -1,8 +1,1 @@
-_site
 .DS_Store
-.bundle
-.sass-cache
-.jekyll-cache
-.jekyll-metadata
-vendor
-/README.md
